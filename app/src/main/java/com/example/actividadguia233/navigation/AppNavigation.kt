@@ -9,6 +9,7 @@ import com.example.actividadguia233.ui.screen.RegistroScreen
 import com.example.actividadguia233.ui.screen.ResumenScreen
 import com.example.actividadguia233.viewmodel.UsuarioViewModel
 
+
 @Composable
 fun AppNavigation() {
     val navController = rememberNavController()
